@@ -7,5 +7,4 @@ I have too much free time and sometimes I code things because of it.
   
 ---
 
-![Deine GitHub Stats](https://github-readme-stats.vercel.app/api?username=Schneller31&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Schneller31&layout=compact&theme=radical)
+![Top Langs](https://github-stats-extended.vercel.app/api/top-langs?username=Schneller31&layout=compact&langs_count=8&disable_animations=false&theme=gruvbox)
